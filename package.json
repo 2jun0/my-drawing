@@ -2,7 +2,7 @@
   "name": "my-drawing",
   "version": "1.0.0",
   "description": "My drawing blog",
-  "main": "dict/index.js",
+  "main": "dict/index.html",
   "scripts": {
     "build": "webpack --mode production"
   },
